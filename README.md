@@ -1,5 +1,5 @@
 ## Eai, eu sou o Patin 🤟
-
+![image0](https://github.com/user-attachments/assets/efbfaf7f-d153-4444-ac19-28b5ad1eca0c)
 「🦆」Estudante dessas linguagens de programação.
 
 <img
@@ -88,4 +88,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GdPatinn&show_icons=true&theme=merko) 
 ##
+
 
