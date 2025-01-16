@@ -1,4 +1,9 @@
-## Eai, eu sou o Patin 🤟
+<p>ㅤㅤ ㅤㅤ
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=008000&random=false&width=435&height=40&lines=Eai,+eu +sou +o+Patinn!🤟" alt="Typing SVG">
+  </a>
+</p>
+
 ![image0](https://github.com/user-attachments/assets/efbfaf7f-d153-4444-ac19-28b5ad1eca0c)
 「🦆」Estudante dessas linguagens de programação.
 
