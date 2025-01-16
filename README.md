@@ -5,6 +5,8 @@
 </p>
 
 ![image0](https://github.com/user-attachments/assets/efbfaf7f-d153-4444-ac19-28b5ad1eca0c)
+<br>
+</br>
 「🦆」Estudante dessas linguagens de programação.
 
 <img
